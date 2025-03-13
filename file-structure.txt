@@ -1,0 +1,10 @@
+portfolio-website/
+├── index.html
+├── contact.html
+├── css/
+│   ├── style.css
+│   └── loading.css
+├── js/
+│   └── main.js
+└── images/
+    └── profile.jpg
